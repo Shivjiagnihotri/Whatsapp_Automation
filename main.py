@@ -5,7 +5,7 @@ from pynput.keyboard import Key, Controller
 
 keyboard = Controller()
 i=1
-x=["+919890739418","+918208211933"]
+x=["+9100000000","+9100000000"]
 j=len(x)-1
 
 def send_whatsapp_message(msg: str):
