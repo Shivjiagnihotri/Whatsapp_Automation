@@ -1,5 +1,2 @@
-Install necessary libraries:-
-
-pip install pywhatkit
-
-pip install pyautogui
+pywhatkit
+pyautogui
