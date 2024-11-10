@@ -9,7 +9,7 @@ keyboard = Controller()
 def send_whatsapp_message(msg: str):
     try:
         pywhatkit.sendwhatmsg_instantly(
-            phone_no="+918208211933", 
+            phone_no="+910000000", 
             message=msg,
             tab_close=False
         )
